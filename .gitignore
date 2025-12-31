@@ -1,0 +1,12 @@
+.DS_Store
+*.csv
+*.pdf
+*.txt
+*.xml
+*.mat
+*.zip
+*.duckdb
+comms_with_sharp/
+artifacts/
+data/
+figures/

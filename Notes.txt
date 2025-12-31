@@ -1,0 +1,5 @@
+Given the disarray in which the data for the original paper (Sharp et al., 2025) is currently in, 
+I've decided to redo the reanalysis/modeling with the Lake George data which, I 
+believe, was provided by and used in the Lucius et al. (2020) paper.
+
+TODO:
